@@ -1,2 +1,2 @@
 # Discord_DarkStormLoLK
-Personal Discord bot, it does what I personally want and nothing more.
+My personal Discord bot, it does what I personally want and nothing more.
